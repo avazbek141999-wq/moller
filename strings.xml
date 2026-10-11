@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tg+Insta</string>
+    <string name="tab_telegram">Telegram</string>
+    <string name="tab_instagram">Instagram</string>
+    <string name="tab_reels">Reels joylash</string>
+    <string name="reels_no_instagram">Instagram ilovasi topilmadi. Instagram tabidagi + tugmasi orqali videoni yuklang.</string>
+</resources>
